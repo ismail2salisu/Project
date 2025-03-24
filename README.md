@@ -9,12 +9,13 @@
     <!--header Section-->
     <header>
         <nav>
-            <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="about.html">About Me</a></li>
-              <li><a href="contact.html">Contact</a></li>
-              <li><a href="hobbies.html">Hobbies</a></li>
-            </ul>
+            <h1><ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="hobbies.html">Hobbies</a></li>
+              </ul></h1>
+            
           </nav>
           
     </header>
@@ -29,7 +30,7 @@
     <!--Hobbies Section-->
     <section>
        
-          <h2>Hobbies </h2>  
+          <p>Hobbies </p>  
 
           <ul>
             <li>Coding</li>
